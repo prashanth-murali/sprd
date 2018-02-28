@@ -1,5 +1,5 @@
 
-SRPD - A Simple Programming Language.
+# SPRD - A Simple Programming Language.
 
 Tools used:
 
