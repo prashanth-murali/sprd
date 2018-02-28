@@ -1,0 +1,6 @@
+antlr4.antlrRegisteredTools=4.4@/var/folders/m5/rkngqnss71d0vrnf6z2chqyr0000gn/T/antlr-4.4-complete.jar
+antlr4.antlrToolPath=/var/folders/m5/rkngqnss71d0vrnf6z2chqyr0000gn/T/antlr-4.4-complete.jar
+antlr4.encoding=UTF-8
+antlr4.vmArgs=
+eclipse.preferences.version=1
+outlet.DEFAULT_OUTPUT.directory=./target/generated-sources/antlr4

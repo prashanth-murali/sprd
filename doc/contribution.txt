@@ -1,0 +1,7 @@
+Design of the language – Rajiv, Dipak, Sanjana, Prashanth
+Grammar- Rajiv
+Intermediate code generation, Runner- Prashanth and Dipak
+Runtime environment- Sanjana
+YouTube video- Rajiv
+Presentation- Sanjana
+Examples- Prashanth and Dipak

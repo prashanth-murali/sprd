@@ -1,0 +1,50 @@
+//Generation of intermediate code(iCode) from high level language
+
+Start of the program	 -->		BEGIN
+int a                    -->            WRITE 0
+					SAVE a
+int a = 1                -->            WRITE 1
+					SAVEINT a
+bool b = FALSE           -->            WRITE FALSE
+					SAVEBOOL b
+while(i>0){              -->            WRITE i
+                                        WRITE 0
+					GREATER
+					IFFALSEGOTO 15
+}                        -->            WRITE TRUE
+					IFTRUEGOTO 20
+
+<=                       -->            LESSEROREQUAL
+<                        -->            LESSER
+>=                       -->            GREATEROREQUAL
+>                        -->            GREATER
+==                       -->            EQUALS
+
++                        -->            ADD
+-                        -->            SUBTRACT
+*                        -->            MULTIPLY
+/                        -->            DIVIDE
+%			 -->            MODULUS           				 
+
+&&                       -->            AND
+||                       -->            OR
+
+if(n>5){                 -->            WRITE N
+ 					WRITE 5
+					GREATER
+					IFFALSEGOTO 20
+print a                  -->            PRINT a
+
+b = get                  -->            GET 
+
+}                        -->            WRITE TRUE
+else			 -->		IFTRUEGOTO 22
+{
+
+}
+
+End of Program           -->            END
+
+
+										
+										

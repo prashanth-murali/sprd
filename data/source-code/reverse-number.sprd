@@ -1,0 +1,12 @@
+int num = 52461
+int lastDigit
+int reversedNum
+
+while (num != 0){
+	lastDigit = num % 10
+	if (lastDigit % 2 != 0) {
+		reversedNum = reversedNum * 10 + lastDigit
+	}
+	
+	num = num / 10	
+}
