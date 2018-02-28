@@ -1,10 +1,5 @@
-# SER502-Spring2017-Team12
 
-SPRD - A language designed for SER 502 project.
-
-The documentation of the project is in the doc directory.
-The Youtube video link is https://youtu.be/S834gSfkmRs
-
+SRPD - A Simple Programming Language.
 
 Tools used:
 
